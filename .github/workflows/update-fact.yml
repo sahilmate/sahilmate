@@ -1,0 +1,27 @@
+name: Update Random Fact
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-fact:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update Fact
+        run: |
+          # Your script to generate a random fact and update the file
+          echo "$(curl -s https://some-random-api.ml/fact)" > facts.txt
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add facts.txt
+          git commit -m "Update random fact [skip ci]"
+          git push
