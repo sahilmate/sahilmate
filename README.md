@@ -51,12 +51,13 @@
 <p>📖 Book recommendations: &quot;The Alchemist&quot; by Paulo Coelho</p>
 </li>
 <li>
-<p>💙 Fun fact: &quot;I'm fluent in four languages and currently learning my fifth. It's like adding new colors to my communication palette.&quot;&quot;</p>
+<p>💙 Fun fact: &quot;I'm fluent in four languages and currently learning my fifth. It's like adding new colors to my communication palette.&quot;</p>
 </li>
 </ul>
   </details>
 <hr>
-<p><a href="#">Learn how this works.</a> <a href="https://github.com/sahilmate/sahilmate/actions/workflows/main.yml"><img src="https://github.com/sahilmate/sahilmate/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
+<p><a href="#">Learn how this works.</a> <a href="https://github.com/sahilmate/sahilmate/actions/workflows/main.yml"><img src="https://github.com/sahilmate/sahilmate/actions/workflows/build/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
   <div align="center">
 <p><a href="https://medium.com/@matesahil04" target="_blank" rel="noopener noreferrer"><img src="https://medium.com/@matesahil04/favicon.png" width="30" /></a></p>
   </div>
+  
