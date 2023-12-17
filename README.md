@@ -2,8 +2,8 @@
 <p><a href="https://medium.com/@matesahil04"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a> <a href="https://medium.com/@matesahil04"><img src="https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&amp;logo=Hashnode&amp;logoColor=white" alt="Blog Badge"></a> <a href="soon"><img src="https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&amp;logo=Substack&amp;logoColor=white" alt="Newsletter Badge"></a> <a href="https://youtube.com/@sahiilmate"><img src="https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&amp;logo=Youtube&amp;logoColor=white" alt="YouTube Badge"></a> <a href="https://www.linkedin.com/in/sahil-mate"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a> <a href="https://twitter.com/sahiilmate"><img src="https://img.shields.io/badge/-@sahilmate-3B7EBF?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter Badge"></a> <img src="https://komarev.com/ghpvc/?username=sahilmate&amp;style=for-the-badge" alt="Profile Views Count Badge"></p>
 <hr>
 <div align="left">
-<p>Greetings! 👋 
-
+<h1>Greetings! 👋 </h1>
+<p>
 🚀 I'm Sahil Mate, a passionate tech enthusiast with a thirst to learn.
 
 🌐 My journey spans web development, and data.
@@ -15,7 +15,6 @@
 😊 I am looking forward to collaborate in open source projects.
 
 🌟 Let's embark on this exhilarating technological journey together!
-
 </p>
 </div>
 <hr>
