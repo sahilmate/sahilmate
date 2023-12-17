@@ -45,7 +45,7 @@
 <p>💬 How to reach me: DM <a href="https://twitter.com/sahiilmate">@sahiilmate</a> on Twitter.</p>
 </li>
 <li>
-<p>📬 Where to find me: Subscribe to my <a href="soon">newsletter</a> to hear from me bi-weekly or connect on <a href="https://www.linkedin.com/in/sahil-mate-b35a1428a">LinkedIn</a>.</p>
+<p>📬 Where to find me: Connect on <a href="https://www.linkedin.com/in/sahil-mate-b35a1428a">LinkedIn</a>.</p>
 </li>
 <li>
 <p>📖 Book recommendations: &quot;The Alchemist&quot; by Paulo Coelho</p>
@@ -56,6 +56,6 @@
 </ul>
   </details>
 <hr>
-<p><a href="#">Learn how this works.</a> <a href="https://github.com/sahilmate/sahilmate/actions/workflows/main.yml"><img src="https://github.com/sahilmate/sahilmate/actions/workflows/build/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
+<p><a href="#">Learn how this works.</a> <a href="https://github.com/sahilmate/sahilmate/actions/workflows/main.yml"><img src="https://github.com/sahilmate/sahilmate/actions/workflows/main.yml/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
 
   
