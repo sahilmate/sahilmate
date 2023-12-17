@@ -20,8 +20,8 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: C:/Users/sahil/GithubProfile/src
+        working-directory: src  # Adjust the path accordingly
 
       - name: Run tests
         run: npm test
-        working-directory: C:/Users/sahil/GithubProfile/src
+        working-directory: src  # Adjust the path accordingly
