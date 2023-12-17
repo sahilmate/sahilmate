@@ -15,9 +15,16 @@
 
 </p>
 <hr>
-<p><a href="https://github.com/sahilmate/sahilmate#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;title_color=3B7EBF&amp;text_color=FFF&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark"></a></p>
+<!--
+<p><a href="https://github.com/sahilmate/sahilmate#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=3B7EBF&amp;text_color=FFF&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark"></a></p>
 <p><a href="https://github.com/sahilmate/sahilmate#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=3B7EBF&amp;text_color=474A4E&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-light-mode-only" alt="GitHub-Stats-Card-Light"></a></p>
-  </div>
+  </div> -->
+<!-- Dark Mode Card -->
+<p><a href="https://github.com/sahilmate/sahilmate#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=ff6e96&amp;text_color=f8f8f2&amp;icon_color=79dafa&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=dracula#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark"></a></p>
+
+<!-- Light Mode Card -->
+<p><a href="https://github.com/sahilmate/sahilmate#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=ff6e96&amp;text_color=f8f8f2&amp;icon_color=79dafa&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=dracula#gh-light-mode-only" alt="GitHub-Stats-Card-Light"></a></p>
+
 <hr>
 <h2>Highlights</h2>
   <details>
