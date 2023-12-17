@@ -27,25 +27,20 @@
 
 <!-- To make the cards glowing -->
 <!-- Dark Mode Card with Glowing Effect -->
-<p class="glow-card">
-    <a href="https://github.com/sahilmate/sahilmate#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=ff6e96&amp;text_color=f8f8f2&amp;icon_color=79dafa&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=dracula#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark">
-    </a>
+<p>
+        <a href="https://github.com/sahilmate/sahilmate#gh-dark-mode-only" style="box-shadow: 0px 0px 20px 5px rgba(255, 110, 150, 0.5); filter: drop-shadow(0px 0px 10px rgba(255, 110, 150, 1));">
+            <img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=ff6e96&amp;text_color=f8f8f2&amp;icon_color=79dafa&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=dracula#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark">
+        </a>
 </p>
 
 <!-- Light Mode Card with Glowing Effect -->
-<p class="glow-card">
-    <a href="https://github.com/sahilmate/sahilmate#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=ff6e96&amp;text_color=f8f8f2&amp;icon_color=79dafa&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=dracula#gh-light-mode-only" alt="GitHub-Stats-Card-Light">
-    </a>
+<p>
+        <a href="https://github.com/sahilmate/sahilmate#gh-light-mode-only" style="box-shadow: 0px 0px 20px 5px rgba(255, 110, 150, 0.5); filter: drop-shadow(0px 0px 10px rgba(255, 110, 150, 1));">
+            <img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=ff6e96&amp;text_color=f8f8f2&amp;icon_color=79dafa&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=dracula#gh-light-mode-only" alt="GitHub-Stats-Card-Light">
+        </a>
 </p>
 </div>
-<style>
-    .glow-card {
-        box-shadow: 0px 0px 20px 5px rgba(255, 110, 150, 0.5);
-        filter: drop-shadow(0px 0px 10px rgba(255, 110, 150, 1));
-    }
-</style>
+
 <hr>
 <h2>Highlights</h2>
   <details>
