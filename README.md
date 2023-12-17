@@ -1,10 +1,22 @@
 <div align="center">
-<p><a href="https://medium.com/@matesahil04"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a> <a href="https://medium.com/@matesahil04"><img src="https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&amp;logo=Hashnode&amp;logoColor=white" alt="Blog Badge"></a> <a href="soon"><img src="https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&amp;logo=Substack&amp;logoColor=white" alt="Newsletter Badge"></a> <a href="https://youtube.com/@sahiilmate"><img src="https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&amp;logo=Youtube&amp;logoColor=white" alt="YouTube Badge"></a> <a href="https://www.linkedin.com/in/sahil-mate-b35a1428a"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a> <a href="https://twitter.com/sahiilmate"><img src="https://img.shields.io/badge/-@sahilmate-3B7EBF?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter Badge"></a> <img src="https://komarev.com/ghpvc/?username=sahilmate&amp;style=for-the-badge" alt="Profile Views Count Badge"></p>
+<p><a href="https://medium.com/@matesahil04"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a> <a href="https://medium.com/@matesahil04"><img src="https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&amp;logo=Hashnode&amp;logoColor=white" alt="Blog Badge"></a> <a href="soon"><img src="https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&amp;logo=Substack&amp;logoColor=white" alt="Newsletter Badge"></a> <a href="https://youtube.com/@sahiilmate"><img src="https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&amp;logo=Youtube&amp;logoColor=white" alt="YouTube Badge"></a> <a href="https://www.linkedin.com/in/sahil-mate"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a> <a href="https://twitter.com/sahiilmate"><img src="https://img.shields.io/badge/-@sahilmate-3B7EBF?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter Badge"></a> <img src="https://komarev.com/ghpvc/?username=sahilmate&amp;style=for-the-badge" alt="Profile Views Count Badge"></p>
 <hr>
-<p>Greetings! 👋 I'm Sahil Mate, a passionate tech enthusiast with a dynamic background in IT, web engineering, and data. My journey through web development, developer relations, and technical writing has been nothing short of exhilarating.  In both for-profit start-ups and non-profit tech and education organizations, I've honed my skills. I specialise in creating technical content, sharing my knowledge at developer meets and conferences. Let us embark on this technological journey together!</p>
+<p>Greetings! 👋 
+
+🚀 I'm Sahil Mate, a passionate tech enthusiast with a thirst to learn.
+
+🌐 My journey spans web development, and data.
+
+🔧 Experienced in community building and networking. 
+
+✍️ I specialize in creating engaging technical content and sharing knowledge with peers.
+
+🌟 Let's embark on this exhilarating technological journey together!
+
+</p>
 <hr>
 <p><a href="https://github.com/sahilmate/sahilmate#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;title_color=3B7EBF&amp;text_color=FFF&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark"></a></p>
-<p><a href="https://github.com/sahilmate/sahilmate#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;title_color=3B7EBF&amp;text_color=474A4E&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-light-mode-only" alt="GitHub-Stats-Card-Light"></a></p>
+<p><a href="https://github.com/sahilmate/sahilmate#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=3B7EBF&amp;text_color=474A4E&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-light-mode-only" alt="GitHub-Stats-Card-Light"></a></p>
   </div>
 <hr>
 <h2>Highlights</h2>
@@ -45,7 +57,7 @@
 <p>💬 How to reach me: DM <a href="https://twitter.com/sahiilmate">@sahiilmate</a> on Twitter.</p>
 </li>
 <li>
-<p>📬 Where to find me: Connect on <a href="https://www.linkedin.com/in/sahil-mate-b35a1428a">LinkedIn</a>.</p>
+<p>📬 Where to find me: Connect on <a href="https://www.linkedin.com/in/sahil-mate">LinkedIn</a>.</p>
 </li>
 <li>
 <p>📖 Book recommendations: &quot;The Alchemist&quot; by Paulo Coelho</p>
