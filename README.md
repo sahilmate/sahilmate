@@ -45,7 +45,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmate&layout=compact) -->
 
-[![Random Fact Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sahilmate/sahilmate/main/facts.txt)](https://github.com/sahilmate/sahilmate)
+[![Random Fact Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmate&layout=compact&theme=dracula&url=https://raw.githubusercontent.com/sahilmate/sahilmate/main/facts.txt)](https://github.com/sahilmate/sahilmate)
 
 </div>
 
