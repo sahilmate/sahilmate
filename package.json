@@ -7,10 +7,11 @@
         "build": "npx tsc",
         "build:watch": "npx tsc-watch",
         "start": "npm run build && node build/app.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        
+        "test": "echo 'No tests specified' && exit 0"
     },
     "keywords": [],
-    "author": "Your Name",
+    "author": "sahilmate",
     "license": "ISC",
     "dependencies": {
         "fs": "^0.0.1-security",
