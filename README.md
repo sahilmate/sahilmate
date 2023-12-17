@@ -99,5 +99,5 @@
 </ul>
   </details>
 <hr>
-<p><a href="#">Learn how this works.</a> <a href="https://github.com/sahilmate/sahilmate/actions/workflows/main.yml"><img src="https://github.com/sahilmate/sahilmate/actions/workflows/main.yml/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats">Learn how this works.</a> <a href="https://github.com/sahilmate/sahilmate/actions/workflows/main.yml"><img src="https://github.com/sahilmate/sahilmate/actions/workflows/main.yml/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
 
