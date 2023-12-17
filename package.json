@@ -1,0 +1,26 @@
+{
+    "name": "sahilmate",
+    "version": "1.0.0",
+    "description": "Sahil Mate's GitHub Profile",
+    "main": "src/app.ts",
+    "scripts": {
+        "build": "npx tsc",
+        "build:watch": "npx tsc-watch",
+        "start": "npm run build && node build/app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "markdown-it": "^14.0.0",
+        "rss-parser": "^3.13.0",
+        "tsc-watch": "^6.0.4"
+    },
+    "devDependencies": {
+        "@types/node": "^20.10.4",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.3.3"
+    }
+}
