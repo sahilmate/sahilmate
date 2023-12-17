@@ -40,13 +40,7 @@
         </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmate)](https://github.com/sahilmate/sahilmate)
-<style>
-    img[alt="Top Langs"] {
-        filter: invert(75%) sepia(94%) saturate(7497%) hue-rotate(322deg) brightness(99%) contrast(95%);
-    }
-</style>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmate&layout=compact)
 
 </div>
 
