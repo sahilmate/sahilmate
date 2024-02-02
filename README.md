@@ -1,9 +1,12 @@
 <div align="center">
 <p><a href="https://sahilmate.github.io/js-portfolio-site/"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a> <a href="https://medium.com/@sahilmate"><img src="https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&amp;logo=Hashnode&amp;logoColor=white" alt="Blog Badge"></a> <a href="soon"><img src="https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&amp;logo=Substack&amp;logoColor=white" alt="Newsletter Badge"></a> <a href="https://youtube.com/@sahiilmate"><img src="https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&amp;logo=Youtube&amp;logoColor=white" alt="YouTube Badge"></a> <a href="https://www.linkedin.com/in/sahil-mate"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a> <a href="https://twitter.com/sahiilmate"><img src="https://img.shields.io/badge/-@sahilmate-3B7EBF?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter Badge"></a> <img src="https://komarev.com/ghpvc/?username=sahilmate&amp;style=for-the-badge" alt="Profile Views Count Badge"></p>
 <hr>
+  
 <p align="center">
-  <img src="src\githubreadme.png" "Github ReadMe Image" style="max-width: 100%;">
+  <img src="https://github.com/sahilmate/sahilmate/blob/main/githubreadme.png" alt="Github ReadMe Image" style="max-width: 100%;">
 </p>
+
+  
 <div align="left">
 <h1>Greetings! 👋 </h1>
 <p>
