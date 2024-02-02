@@ -42,7 +42,7 @@
   
 <!-- <p><a href="https://github.com/sahilmate/sahilmate#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=ff6e96&amp;text_color=f8f8f2&amp;icon_color=79dafa&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=dracula#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark"></a></p> -->
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sahilmate&show_icons=true&locale=en" alt="sahilmate" /></p> 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sahilmate&show_icons=true&locale=en&theme=dracula" alt="sahilmate" /></p> 
 
 <br>
 <!-- <p> <a href="https://github.com/sahilmate/sahilmate#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=ff6e96&amp;text_color=f8f8f2&amp;icon_color=79dafa&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=dracula#gh-light-mode-only" alt="GitHub-Stats-Card-Light"></a></p> -->
@@ -56,9 +56,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmate&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmate" /> </p> -->
 
 <br>
-<div align = "center"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmate&" alt="sahilmate" /> </div>
+<div align = "center"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmate&theme=dark" alt="sahilmate" /> </div>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilmate" alt="sahilmate" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilmate&theme=darkhub" alt="sahilmate" /></a> </p>
 
 <hr>
 <h2>Highlights</h2>
