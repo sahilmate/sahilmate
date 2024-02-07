@@ -92,12 +92,15 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilmate&theme=darkhub" alt="sahilmate" /></a> </p>
 
 ### Some Quotes I Resonate With: 
+&nbsp;
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true" alt="Readme Quotes">
   </a>
 </p>
-
+&nbsp;
+<br>
+<br>
 
 <!--
 <hr>
