@@ -12,13 +12,13 @@
 <p>
 🚀 I'm Sahil Mate, a passionate tech enthusiast with a thirst to learn.
 
-🌐 My journey spans web development, and data.
+🌐 My journey spans in the field of engineering, precisely web development, and cloud.
 
 🔧 I love to discuss about networking and community building. 
 
 ✍️ I specialize in creating engaging technical content and sharing knowledge with peers.
 
-😊 I am looking forward to collaborate in open source projects.
+😊 I am looking forward to collaborate in beginner and/or open source projects.
 
 🌟 Let's embark on this exhilarating technological journey together!
 </p>
@@ -91,8 +91,14 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilmate&theme=darkhub" alt="sahilmate" /></a> </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true)](https://github.com/piyushsuthar/github-readme-quotes) 
-  
+### Some Quotes I Resonate With: 
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true" alt="Readme Quotes">
+  </a>
+</p>
+
+
 <!--
 <hr>
 <h2>Highlights</h2>
