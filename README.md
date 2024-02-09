@@ -7,22 +7,9 @@
 </p>
 
   
-<div align="left">
-<h1>Greetings! 👋 </h1>
-<p>
-🚀 I'm Sahil Mate, a passionate tech enthusiast with a thirst to learn.
+| ![Sahil Mate's Dev Card](https://api.daily.dev/devcards/eac15d51e87c436d83c4321ddcdad106.png?r=49r&width=400&height=200) | **<h1> Greetings! 👋 </h1>**<br> <br>🚀 I'm Sahil Mate, a passionate tech enthusiast with a thirst to learn.<br> <br> <br>🌐 My journey spans in the field of engineering, precisely web development, and cloud.<br> <br> <br> 🔧 I love to discuss networking and community building.<br> <br> <br>✍️ I specialize in creating engaging technical content and sharing knowledge with peers.<br> <br> <br>😊 I am looking forward to collaborating on beginner and/or open-source projects.<br> <br> <br> 🌟 Let's embark on this exhilarating technological journey together! |
+|---|---|
 
-🌐 My journey spans in the field of engineering, precisely web development, and cloud.
-
-🔧 I love to discuss about networking and community building. 
-
-✍️ I specialize in creating engaging technical content and sharing knowledge with peers.
-
-😊 I am looking forward to collaborate in beginner and/or open source projects.
-
-🌟 Let's embark on this exhilarating technological journey together!
-</p>
-</div>
 <hr>
 <h2 align="left">Languages and Tools I Can Work With:</h2>
 <p align="center">
