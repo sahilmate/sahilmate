@@ -1,5 +1,6 @@
 <div align="center">
 <p><a href="https://sahilmate.github.io/js-portfolio-site/"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a> <a href="https://medium.com/@sahilmate"><img src="https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&amp;logo=Hashnode&amp;logoColor=white" alt="Blog Badge"></a> <a href="soon"><img src="https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&amp;logo=Substack&amp;logoColor=white" alt="Newsletter Badge"></a> <a href="https://youtube.com/@sahiilmate"><img src="https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&amp;logo=Youtube&amp;logoColor=white" alt="YouTube Badge"></a> <a href="https://www.linkedin.com/in/sahil-mate"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a> <a href="https://twitter.com/sahiilmate"><img src="https://img.shields.io/badge/-@sahilmate-3B7EBF?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter Badge"></a> <img src="https://komarev.com/ghpvc/?username=sahilmate&amp;style=for-the-badge" alt="Profile Views Count Badge"></p>
+</div>
 <hr>
   
 <p align="center">
@@ -7,57 +8,31 @@
 </p>
 
   
-| <a href="https://app.daily.dev/sahilmate"><img src="https://github.com/sahilmate/sahilmate/blob/main/devcard.svg" width="400" alt="Sahil Mate's Dev Card"/></a> | **<h1> Greetings! 👋 </h1>**<br> <br>🚀 I'm Sahil Mate, a passionate tech enthusiast with a thirst to learn.<br> <br> <br>🌐 My journey spans in the field of engineering, precisely web development, and cloud.<br> <br> <br> 🔧 I love to discuss networking and community building.<br> <br> <br>✍️ I specialize in creating engaging technical content and sharing knowledge with peers.<br> <br> <br>😊 I am looking forward to collaborating on beginner and/or open-source projects.<br> <br> <br> 🌟 Let's embark on this exhilarating technological journey together! |
+| <a href="https://app.daily.dev/sahilmate"><img src="https://github.com/sahilmate/sahilmate/blob/main/devcard.svg" width="400" alt="Sahil Mate's Dev Card"/></a> | **<h1> Hey, There! 👋 </h1>** <div align="left"> 🚀 I'm Sahil Mate, currently 19 years old. <br> 🌐 My journey spans in the field of engineering, precisely web development, and cloud.<br>🔧 I love to discuss networking and community building.<br>✍️ I specialize in creating engaging technical content and sharing knowledge with peers.<br>😊 I am looking forward to collaborating on beginner and/or open-source projects. </div>|
 |---|---|
 
 <hr>
-<h2 align="left">Languages and Tools I Can Work With:</h2>
-<p align="center">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-    </a> Bootstrap
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    </a> C++
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    </a> CSS3
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-    </a> Flask
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="40" height="40"/>
-    </a> GCP
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    </a> Git
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a> HTML5
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    </a> Java
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </a> JavaScript
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    </a> Linux
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-    </a> Photoshop
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a> Python
-    <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
-    </a> Qt
-</p>
-
-
-
-
+<p align="left">
   
+  ## 🌍 Programming Languages:
+  [![progLang](https://skillicons.dev/icons?i=js,java,html,css,py,cpp&theme=dark)](https://github.com/sahilmate)
+
+  ## 💻 Frameworks:
+  ### CSS:
+  [![css](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://github.com/sahilmate)
+
+  ## ⚙️ Tools:
+  [![tools](https://skillicons.dev/icons?i=git,vscode&theme=dark)](https://github.com/sahilmate)
+
+  ## 📦 Databases:
+  [![databases](https://skillicons.dev/icons?i=mysql&theme=dark)](https://github.com/sahilmate)  
+
+  ## 🔧 OS :
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+ 
+</p>  
+<hr>
+
 <!-- <p><a href="https://github.com/sahilmate/sahilmate#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=ff6e96&amp;text_color=f8f8f2&amp;icon_color=79dafa&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=dracula#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark"></a></p> -->
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sahilmate&show_icons=true&locale=en&theme=dracula" alt="sahilmate" /></p> 
@@ -78,6 +53,7 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilmate&theme=darkhub" alt="sahilmate" /></a> </p>
 
+<hr>
 ### Some Quotes I Resonate With: 
 &nbsp;
 <p align="center">
