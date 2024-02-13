@@ -8,7 +8,7 @@
 </p>
 
   
-| <a href="https://app.daily.dev/sahilmate"><img src="https://github.com/sahilmate/sahilmate/blob/main/devcard.svg" width="400" alt="Sahil Mate's Dev Card"/></a> | **<h1> Hey, There! 👋 </h1>** <div align="left"> 🚀 I'm Sahil Mate, currently 19 years old. <br> <br> 🌐 My journey spans in the field of engineering, precisely web development, and cloud.<br> <br> 🔧 I love to discuss networking and community building.<br> <br> ✍️ I specialize in creating engaging technical content and sharing knowledge with peers.<br> <br>😊 I am looking forward to collaborating on beginner and/or open-source projects. </div>|
+| <a href="https://app.daily.dev/sahilmate"><img src="https://github.com/sahilmate/sahilmate/blob/main/devcard.svg" width="400" alt="Sahil Mate's Dev Card"/></a> | **<h2> Hey, There! 👋 </h2>** <div align="left"> 🚀 I'm Sahil Mate, currently 19 years old. <br> <br> 🌐 My journey spans in the field of engineering, precisely web development, and cloud.<br> <br> 🔧 I love to discuss networking and community building.<br> <br> ✍️ I specialize in creating engaging technical content and sharing knowledge with peers.<br> <br>😊 I am looking forward to collaborating on beginner and/or open-source projects. </div> <img src="https://github.com/sahilmate/sahilmate/blob/main/NUX_Octodex.gif" width="100" height="100"> </div> |
 |---|---|
 
 <hr>
