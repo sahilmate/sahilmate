@@ -40,7 +40,7 @@
 ## 🤓 Stats For Nerds 
 <!-- <p><a href="https://github.com/sahilmate/sahilmate#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=ff6e96&amp;text_color=f8f8f2&amp;icon_color=79dafa&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=dracula#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark"></a></p> -->
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sahilmate&show_icons=true&locale=en&theme=dracula" alt="sahilmate" /></p> 
+ <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=sahilmate&show_icons=true&locale=en&theme=dracula" alt="sahilmate" /></p> 
 
 <br>
 <!-- <p> <a href="https://github.com/sahilmate/sahilmate#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sahilmate&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Contribution%20Stats&amp;title_color=ff6e96&amp;text_color=f8f8f2&amp;icon_color=79dafa&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=dracula#gh-light-mode-only" alt="GitHub-Stats-Card-Light"></a></p> -->
@@ -49,7 +49,8 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilmate&show_icons=true&locale=en&layout=compact" alt="sahilmate" /></p> -->
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmate&layout=compact&theme=dracula&url=https://raw.githubusercontent.com/sahilmate/sahilmate/main/facts.txt)](https://github.com/sahilmate/sahilmate) 
-</div>
+ <p> <img align="right" src="https://github.com/sahilmate/sahilmate/blob/main/spidertocat.png" width=200 height=200 </p>
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmate&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmate" /> </p> -->
 
