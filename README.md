@@ -15,14 +15,20 @@
 <p align="left">
   
   ## 🌍 Programming Languages:
-  [![progLang](https://skillicons.dev/icons?i=js,java,html,css,py,cpp&theme=dark)](https://github.com/sahilmate)
+  [![progLang](https://skillicons.dev/icons?i=py,cpp,c,java,html,css,bootstrap,js,kotlin&theme=dark)](https://github.com/sahilmate)
 
   ## 💻 Frameworks:
   ### CSS:
   [![css](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://github.com/sahilmate)
 
-  ## ⚙️ Tools:
-  [![tools](https://skillicons.dev/icons?i=git,vscode&theme=dark)](https://github.com/sahilmate)
+  ### Python:
+  [![python](https://skillicons.dev/icons?i=flask&theme=dark)](https://github.com/sahilmate)
+
+  ### CPP:
+  [![cpp](https://skillicons.dev/icons?i=qt&theme=dark)](https://github.com/sahilmate)
+  
+  ## ⚙️ Tools And Platforms:
+  [![tools](https://skillicons.dev/icons?i=git,githubactions,vscode,gcp,firebase,netlify&theme=dark)](https://github.com/sahilmate)
 
   ## 📦 Databases:
   [![databases](https://skillicons.dev/icons?i=mysql&theme=dark)](https://github.com/sahilmate)  
