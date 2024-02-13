@@ -61,9 +61,11 @@
 
 <hr>
 
+<img align="right" src="https://github.com/sahilmate/sahilmate/blob/main/collabocats.jpg" width=150 height=150>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=When%20Life%20gives%20you%20lemonades%2C%20make%20lemons%2C%20Life%20will%20be%20like%20WHAAT
 )](https://github.com/sahilmate)
+
 
 
 
