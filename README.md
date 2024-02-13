@@ -28,7 +28,7 @@
   [![cpp](https://skillicons.dev/icons?i=qt&theme=dark)](https://github.com/sahilmate)
   
   ## ⚙️ Tools And Platforms:
-  [![tools](https://skillicons.dev/icons?i=git,githubactions,vscode,gcp,firebase,netlify&theme=dark)](https://github.com/sahilmate)
+  [![tools](https://skillicons.dev/icons?i=git,githubactions,vscode,gcp,firebase,netlify,nodejs&theme=dark)](https://github.com/sahilmate)
 
   ## 📦 Databases:
   [![databases](https://skillicons.dev/icons?i=mysql&theme=dark)](https://github.com/sahilmate)  
