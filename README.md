@@ -9,7 +9,7 @@
 
 
 
-| <a href="https://app.daily.dev/sahilmate"><img src="./devcard.png" width="356" alt="Sahil Mate's Dev Card"/></a> | **<h2> Hey, There! 👋 </h2>** <div align="left"> 🚀 I'm Sahil Mate, currently 19 years old. <br> <br> 🌐 My journey spans in the field of engineering, precisely web development, and cloud.<br> <br> 🔧 I love to discuss networking and community building.<br> <br> ✍️ I specialize in creating engaging technical content and sharing knowledge with peers.<br> <br>😊 I am looking forward to collaborating on beginner and/or open-source projects. </div> <img src="https://github.com/sahilmate/sahilmate/blob/main/NUX_Octodex.gif" width="100" height="100"> </div> |
+| <a href="https://app.daily.dev/sahilmate"><img src="./devcard.png" width="356" alt="Sahil Mate's Dev Card"/></a> | **<h2> Hey, There! 👋 </h2>** <div align="left"> 🚀 I'm Sahil Mate, currently 19 years old. <br> <br> 🌐 My journey spans in the field of engineering, precisely web development, and cloud.<br> <br> 🔧 I love to discuss networking and community building.<br> <br> ✍️ I specialize in creating engaging technical content and sharing knowledge with peers.<br> <br>😊 I am looking forward to collaborating on beginner and/or open-source projects. </div> <!-- <img src="https://github.com/sahilmate/sahilmate/blob/main/NUX_Octodex.gif" width="100" height="100"> --> </div> |
 |---|---|
 
 <hr>
@@ -50,7 +50,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilmate&show_icons=true&locale=en&layout=compact" alt="sahilmate" /></p> -->
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmate&layout=compact&theme=dracula&url=https://raw.githubusercontent.com/sahilmate/sahilmate/main/facts.txt)](https://github.com/sahilmate/sahilmate) 
- <p> <img align="right" src="https://github.com/sahilmate/sahilmate/blob/main/spidertocat.png" width=200 height=200 </p>
+ <!-- <p> <img align="right" src="https://github.com/sahilmate/sahilmate/blob/main/spidertocat.png" width=200 height=200 </p> -->
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmate&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmate" /> </p> -->
@@ -62,10 +62,10 @@
 
 <hr>
 
-<img align="right" src="https://github.com/sahilmate/sahilmate/blob/main/daftpunktocat-thomas.gif" width=150 height=150>
+<!-- <img align="right" src="https://github.com/sahilmate/sahilmate/blob/main/daftpunktocat-thomas.gif" width=150 height=150>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=When%20Life%20gives%20you%20lemonades%2C%20make%20lemons%2C%20Life%20will%20be%20like%20WHAAT
-)](https://github.com/sahilmate)
+)](https://github.com/sahilmate) -->
 
 
 
