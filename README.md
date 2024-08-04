@@ -15,21 +15,95 @@
 <hr>
 <p align="left">
   
-  ## 🌍 Programming Languages:
-  [![progLang](https://skillicons.dev/icons?i=py,cpp,c,java,html,css,bootstrap,js,kotlin&theme=dark)](https://github.com/sahilmate)
+## 🌍 Programming Languages:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" width="40" height="40"/><br>Python</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="40" height="40"/><br>C++</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="40" height="40"/><br>C</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="40" height="40"/><br>Java</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="40" height="40"/><br>HTML5</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="40" height="40"/><br>CSS3</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" width="40" height="40"/><br>Bootstrap</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="40" height="40"/><br>JavaScript</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" width="40" height="40"/><br>Kotlin</a>
+    </td>
+  </tr>
+</table>
 
 ## 💻 Frameworks:
 
-| [![css](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://github.com/sahilmate) CSS | [![python](https://skillicons.dev/icons?i=flask&theme=dark)](https://github.com/sahilmate) Python | [![cpp](https://skillicons.dev/icons?i=qt&theme=dark)](https://github.com/sahilmate) CPP |
-| --- | --- | --- |
+<table>
+  <tr>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="40" height="40"/><br>Tailwind CSS</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" width="40" height="40"/><br>Flask</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=qt&theme=dark" alt="Qt" width="40" height="40"/><br>Qt</a>
+    </td>
+  </tr>
+</table>
+
+## ⚙️ Tools And Platforms:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="40" height="40"/><br>Git</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" width="40" height="40"/><br>GitHub Actions</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="40" height="40"/><br>VS Code</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud Platform" width="40" height="40"/><br>Google Cloud Platform</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" width="40" height="40"/><br>Firebase</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Netlify" width="40" height="40"/><br>Netlify</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="40" height="40"/><br>Node.js</a>
+    </td>
+  </tr>
+</table>
+
+## 📦 Databases:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="40" height="40"/><br>MySQL</a>
+    </td>
+  </tr>
+</table>
 
 
-  
-  ## ⚙️ Tools And Platforms:
-  [![tools](https://skillicons.dev/icons?i=git,githubactions,vscode,gcp,firebase,netlify,nodejs&theme=dark)](https://github.com/sahilmate)
-
-  ## 📦 Databases:
-  [![databases](https://skillicons.dev/icons?i=mysql&theme=dark)](https://github.com/sahilmate)  
 
   ## 🔧 OS :
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
