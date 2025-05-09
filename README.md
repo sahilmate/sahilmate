@@ -45,7 +45,13 @@
       <a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="40" height="40"/><br>JavaScript</a>
     </td>
     <td align="center">
-      <a href="#"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" width="40" height="40"/><br>Kotlin</a>
+      <a href="#"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="40" height="40"/><br>PHP</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="ReactJS" width="40" height="40"/><br>ReactJS</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" width="40" height="40"/><br>TypeScript</a>
     </td>
   </tr>
 </table>
@@ -61,7 +67,16 @@
       <a href="#"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" width="40" height="40"/><br>Flask</a>
     </td>
     <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" width="40" height="40"/><br>Django</a>
+    </td>
+    <td align="center">
       <a href="#"><img src="https://skillicons.dev/icons?i=qt&theme=dark" alt="Qt" width="40" height="40"/><br>Qt</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="ExpressJS" width="40" height="40"/><br>ExpressJS</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" width="40" height="40"/><br>FastAPI</a>
     </td>
   </tr>
 </table>
@@ -77,7 +92,7 @@
       <a href="#"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" width="40" height="40"/><br>GitHub Actions</a>
     </td>
     <td align="center">
-      <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="40" height="40"/><br>VS Code</a>
+      <a href="#"><img src="https://skillicons.dev/icons?i=vscode,eclipse&theme=dark" alt="VS Code & Eclipse" width="40" height="40"/><br>VS Code & Eclipse</a>
     </td>
     <td align="center">
       <a href="#"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud Platform" width="40" height="40"/><br>Google Cloud Platform</a>
@@ -91,6 +106,9 @@
     <td align="center">
       <a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="40" height="40"/><br>Node.js</a>
     </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="40" height="40"/><br>Docker</a>
+    </td>
   </tr>
 </table>
 
@@ -100,6 +118,9 @@
   <tr>
     <td align="center">
       <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="40" height="40"/><br>MySQL</a>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="40" height="40"/><br>MongoDB</a>
     </td>
   </tr>
 </table>
