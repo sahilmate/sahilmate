@@ -14,7 +14,7 @@
 
 
 <hr>
-<p align="left">
+<!-- <p align="left"> -->
   
 ## 🌍 Programming Languages:
 
@@ -131,7 +131,7 @@
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
  
-</p>  
+<!-- </p> --> 
 <hr>
 
 ## 🤓 Stats For Nerds 
