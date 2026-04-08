@@ -15,7 +15,7 @@
     "license": "ISC",
     "dependencies": {
         "fs": "^0.0.1-security",
-        "markdown-it": "^14.0.0",
+        "markdown-it": "^14.1.1",
         "rss-parser": "^3.13.0",
         "tsc-watch": "^6.0.4"
     },
