@@ -1,5 +1,5 @@
 <div align="center">
-<p><a href="https://sahilmate.github.io/js-portfolio-site/"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a> <a href="https://medium.com/@sahilmate"><img src="https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&amp;logo=Hashnode&amp;logoColor=white" alt="Blog Badge"></a> <a href="soon"><img src="https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&amp;logo=Substack&amp;logoColor=white" alt="Newsletter Badge"></a> <a href="https://youtube.com/@sahiilmate"><img src="https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&amp;logo=Youtube&amp;logoColor=white" alt="YouTube Badge"></a> <a href="https://www.linkedin.com/in/sahil-mate"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a> <a href="https://twitter.com/sahilmate"><img src="https://img.shields.io/badge/-@sahilmate-3B7EBF?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter Badge"></a> <img src="https://komarev.com/ghpvc/?username=sahilmate&amp;style=for-the-badge" alt="Profile Views Count Badge"></p>
+<p><a href="https://sahilmate.github.io/js-portfolio-site/"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a> <a href="https://medium.com/@sahilmate"><img src="https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&amp;logo=Hashnode&amp;logoColor=white" alt="Blog Badge"></a> <a href="#"><img src="https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&amp;logo=Substack&amp;logoColor=white" alt="Newsletter Badge"></a> <a href="https://youtube.com/@sahiilmate"><img src="https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&amp;logo=Youtube&amp;logoColor=white" alt="YouTube Badge"></a> <a href="https://www.linkedin.com/in/sahil-mate"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a> <a href="https://twitter.com/sahilmate"><img src="https://img.shields.io/badge/-@sahilmate-3B7EBF?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter Badge"></a> <img src="https://komarev.com/ghpvc/?username=sahilmate&amp;style=for-the-badge" alt="Profile Views Count Badge"></p>
 </div>
 <hr>
 <!--  
@@ -10,7 +10,7 @@
 
 
 <!-- | <a href="https://app.daily.dev/sahilmate"><img src="./devcard.png" width="356" alt="Sahil Mate's Dev Card"/></a> | -->
-**<h2> Hey, There! 👋 </h2>** <div align="left"> 🚀 I'm Sahil Mate, currently 21 years old. <br> <br> 🌐 My journey spans in the field of engineering, precisely web development, and cloud.<br> <br> 🔧 I love to discuss networking and community building.<br> <br> ✍️ I specialize in creating engaging technical content and sharing knowledge with peers.<br> <br>😊 I am looking forward to collaborating on beginner and/or open-source projects. </div> <!-- <img src="https://github.com/sahilmate/sahilmate/blob/main/NUX_Octodex.gif" width="100" height="100"> --> </div> 
+**<h2> Hey, There! 👋 </h2>** <div align="left"> 🚀 I'm Sahil Mate, currently 21 years old. <br> <br> 🌐 🌐 My journey spans software engineering, with a focus on web development and cloud technologies.<br> <br> 🔧 I love to discuss networking and community building.<br> <br> ✍️ I specialize in creating engaging technical content and sharing knowledge with peers.<br> <br>😊 😊 I’m always open to collaborating on open-source and community projects. </div> <!-- <img src="https://github.com/sahilmate/sahilmate/blob/main/NUX_Octodex.gif" width="100" height="100"> --> 
 
 
 <hr>
@@ -151,7 +151,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilmate&show_icons=true&locale=en&layout=compact" alt="sahilmate" /></p> -->
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmate&layout=compact&theme=dracula&url=https://raw.githubusercontent.com/sahilmate/sahilmate/main/facts.txt)](https://github.com/sahilmate/sahilmate) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmate&layout=compact&theme=dracula)](https://github.com/sahilmate/sahilmate) 
  <!-- <p> <img align="right" src="https://github.com/sahilmate/sahilmate/blob/main/spidertocat.png" width=200 height=200 </p> -->
 
 
@@ -161,7 +161,7 @@
 <div align = "center"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmate&theme=dark" alt="sahilmate" /> </div> -->
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-winning.vercel.app/?username=sahilmate&theme=darkhub" alt="sahilmate" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilmate&theme=darkhub" alt="sahilmate" /></a> </p>
 
 <hr>
 
