@@ -10,7 +10,7 @@
 
 
 <!-- | <a href="https://app.daily.dev/sahilmate"><img src="./devcard.png" width="356" alt="Sahil Mate's Dev Card"/></a> | -->
-**<h2> Hey, There! 👋 </h2>** <div align="left"> 🚀 I'm Sahil Mate, currently 21 years old. <br> <br> 🌐 🌐 My journey spans software engineering, with a focus on web development and cloud technologies.<br> <br> 🔧 I love to discuss networking and community building.<br> <br> ✍️ I specialize in creating engaging technical content and sharing knowledge with peers.<br> <br>😊 😊 I’m always open to collaborating on open-source and community projects. </div> <!-- <img src="https://github.com/sahilmate/sahilmate/blob/main/NUX_Octodex.gif" width="100" height="100"> --> 
+**<h2> Hey, There! 👋 </h2>** <div align="left"> 🚀 I'm Sahil Mate, currently 22 years old. <br> <br> 🌐 🌐 My journey spans software engineering, with a focus on web development and cloud technologies.<br> <br> 🔧 I love to discuss networking and community building.<br> <br> ✍️ I specialize in creating engaging technical content and sharing knowledge with peers.<br> <br>😊 😊 I’m always open to collaborating on open-source and community projects. </div> <!-- <img src="https://github.com/sahilmate/sahilmate/blob/main/NUX_Octodex.gif" width="100" height="100"> --> 
 
 
 <hr>
